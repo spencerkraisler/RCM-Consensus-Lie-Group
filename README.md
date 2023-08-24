@@ -1,7 +1,7 @@
 # RCM-Consensus-Lie-Group
 
 This repo is an implementation of the algorithm from the paper [Consensus on Lie groups for
-the Riemannian Center of Mass](https://arxiv.org/abs/2308.08054). 
+the Riemannian Center of Mass](https://arxiv.org/abs/2308.08054). This algorithm computes the Riemannian center of mass of a set of points in a distributed manner, generalizing the Euclidean average consensus dynamics.
 
 Just run ``main.m``.
 
